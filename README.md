@@ -9,13 +9,13 @@
 # 🔰 Qu'est-ce que c'est? 🔰
 
 
-🎨 Mini-Jeux est un projet github visant à créer le plus de mini jeux (dans le cmd) possible.
+🎨 Mini-Jeux est un projet github visant à créer le plus de mini jeux possible.
 
 Tout le monde peuvent y participer avec le langage de son choix. 🎨
 
 # 📋 Comment ça marche? 📋
 
-🍁 Le fichier principal du code (jeu.java) analyse l'input de l'utilisateur en lui donnant plusieurs choix de jeux. Il execute ensuite dans un cmd le fichier du jeu demandé. Aussi simple que ça! 🍁 
+🍁 Le projet est seulement un dossier remplie de mini-jeux exécutable et jouable. 🍁 
 
 # 🍀 Comment puis-je le téléchargé? 🍀
 
@@ -29,7 +29,7 @@ Tout le monde peuvent y participer avec le langage de son choix. 🎨
 
 1- Il ne doit pas être déjà présent dans le dossier.
 
-2- Vous devez faire une version normale du code et une version compilée en .exe.
+2- Vous devez faire une version normale du code et une version compilée en .exe (de préférence, non-obligatoire).
 
 3- Le jeu doit être un jeu et non un tool.
 
