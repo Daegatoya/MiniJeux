@@ -43,3 +43,6 @@ Tout le monde peuvent y participer avec le langage de son choix. 🎨
 # 🔮 Voilà ce qui conclue l'explication de ce projet. J'éspère qu'il vous plaira! 🔮
 
 ![alt text](https://64.media.tumblr.com/1d68501889e727cc39eb699ea3e220aa/tumblr_omj6dxf96o1qbvovho1_500.gif)
+
+
+ReadMe by ![Seryu-Ub](https://github.com/Seryu-Ub)
