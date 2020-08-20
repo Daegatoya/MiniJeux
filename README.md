@@ -15,7 +15,7 @@ Tout le monde peuvent y participer avec le langage de son choix. 🎨
 
 # 📋 Comment ça marche? 📋
 
-🍁 Le projet est seulement un dossier remplie de mini-jeux exécutable et jouable. 🍁 
+🍁 Le projet est seulement un dossier remplie de mini-jeux exécutable et jouable (accompagné des codes open sources). 🍁 
 
 # 🍀 Comment puis-je le téléchargé? 🍀
 
