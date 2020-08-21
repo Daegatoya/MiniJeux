@@ -1,0 +1,12 @@
+
+canvas {
+        background-color: blue;
+    position: absolute;
+    padding: 0;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    border: 5px solid #00ffff;
+}
