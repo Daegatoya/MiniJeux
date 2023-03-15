@@ -44,7 +44,7 @@ Tout le monde peuvent y participer avec le langage de son choix. 🎨
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
